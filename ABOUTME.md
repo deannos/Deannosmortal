@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AMISH JHA.
 - An Computer Science Student
-- Developing some unique skills in Tech World...
+- To become a Software Development Engineer.
 - I hope my works and projects counted as an asset for others.....
 - i began Competitive Coding since 8 months now.I would like to share my experience on various coding Platforms.
 
